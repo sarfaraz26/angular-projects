@@ -1,0 +1,145 @@
+{
+    "heroes": [
+      {
+        "id": 1,
+        "name": "Iron Man",
+        "location": "New York",
+        "img": "https://cdn.pixabay.com/photo/2021/07/20/14/59/iron-man-6480952_640.jpg",
+        "comic": "Marvel"
+      },
+      {
+        "id": 2,
+        "name": "Spider-Man",
+        "location": "New York",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPehMiPBqVKT9PQEw2yfUOSZpj1QCJTM3n-w&s",
+        "comic": "Marvel"
+      },
+      {
+        "id": 3,
+        "name": "Captain America",
+        "location": "New York",
+        "img": "https://cdn.pixabay.com/photo/2021/11/12/14/33/captain-america-6789190_960_720.jpg",
+        "comic": "Marvel"
+      },
+      {
+        "id": 4,
+        "name": "Thor",
+        "location": "Asgard",
+        "img": "https://img.freepik.com/premium-photo/cute-thor-battling-valiantly-cartoon-vector-icon_1022901-77714.jpg",
+        "comic": "Marvel"
+      },
+      {
+        "id": 5,
+        "name": "Hulk",
+        "location": "New York",
+        "img": "https://m.media-amazon.com/images/M/MV5BMGQwYTU0NjYtNmRlZS00NjVjLThmNjgtZTc3MjlmNmY0NDkzXkEyXkFqcGc@._V1_.jpg",
+        "comic": "Marvel"
+      },
+      {
+        "id": 6,
+        "name": "Black Widow",
+        "location": "Russia",
+        "img": "https://i.pinimg.com/736x/20/65/2a/20652a71aa036eda83b108b6ea86020e.jpg",
+        "comic": "Marvel"
+      },
+      {
+        "id": 7,
+        "name": "Doctor Strange",
+        "location": "Brooklyn",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbb4qqXlE0i3qmd-Z6pPubms9Do08Sd51O7g&s",
+        "comic": "Marvel"
+      },
+      {
+        "id": 8,
+        "name": "Black Panther",
+        "location": "Wakanda",
+        "img": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/06/avengers-secret-wars-bp.jpg",
+        "comic": "Marvel"
+      },
+      {
+        "id": 9,
+        "name": "Ant-Man",
+        "location": "San Francisco",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTLGTI8JG4cfp4Z01isnlUwaOWcVNCF1vuQ&s",
+        "comic": "Marvel"
+      },
+      {
+        "id": 10,
+        "name": "Wolverine",
+        "location": "Mexico",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjhlNmIxMDctODY5OS00NWRkLWIyMzUtYmY3ZjcyYWIyMmQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "comic": "Marvel"
+      },
+      {
+        "id": 11,
+        "name": "Batman",
+        "location": "Gotham City",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgw4g9x_O4NAmRt84zYOzyu8S95kCb23bKQ&s",
+        "comic": "DC"
+      },
+      {
+        "id": 12,
+        "name": "Superman",
+        "location": "Metropolis",
+        "img": "https://wallpapers.com/images/hd/superman_-flying_-cartoon-lwu6l79yzipc6kwo.jpg",
+        "comic": "DC"
+      },
+      {
+        "id": 13,
+        "name": "Wonder Woman",
+        "location": "Themyscira",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ThoCwlhPXBviYq6anlyqrNgY4aHSPHdsxA&s",
+        "comic": "DC"
+      },
+      {
+        "id": 14,
+        "name": "Flash",
+        "location": "Central City",
+        "img": "https://i.pinimg.com/originals/8a/b5/8d/8ab58d8f8fe11cac4970133a5ed56700.jpg",
+        "comic": "DC"
+      },
+      {
+        "id": 15,
+        "name": "Green Lantern",
+        "location": "Coast City",
+        "img": "https://illgetdrivethru.com/wp-content/uploads/2021/01/green-lantern-hal-jordan.jpg",
+        "comic": "DC"
+      },
+      {
+        "id": 16,
+        "name": "Aquaman",
+        "location": "Atlantis",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSNjjXd9vXvlNRSgmkaFnhjnWnFT6V62lqA&s",
+        "comic": "DC"
+      },
+      {
+        "id": 17,
+        "name": "Green Arrow",
+        "location": "Star City",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbYTp2iyy7DH_ZlRhUOWEqSFhZgO6bKz0pWw&s",
+        "comic": "DC"
+      },
+      {
+        "id": 18,
+        "name": "Martian Manhunter",
+        "location": "Mars",
+        "img": "https://i.pinimg.com/736x/46/cc/ab/46ccab42e03c9965fc2a4dc99380dcb8.jpg",
+        "comic": "DC"
+      },
+      {
+        "id": 19,
+        "name": "Cyborg",
+        "location": "Jump City",
+        "img": "https://i.pinimg.com/736x/ae/85/a6/ae85a6a735495f84afb42d6dbd0f66cf.jpg",
+        "comic": "DC"
+      },
+      {
+        "id": 20,
+        "name": "Shazam",
+        "location": "Fawcett City",
+        "img": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/shazam-flying.jpg",
+        "comic": "DC"
+      }
+    ]
+  }
+  

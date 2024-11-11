@@ -1,4 +1,7 @@
-.navbar-bg
+.txtSearch
 {
-    background-color: orangered;
+    background: none;
+    outline: 0;
+    border: 0px;
+    border-bottom: 1px solid black;
 }

@@ -3,21 +3,21 @@
       {
         "id": 1,
         "name": "Iron Man",
-        "location": "New York",
+        "location": "NewYork",
         "img": "https://cdn.pixabay.com/photo/2021/07/20/14/59/iron-man-6480952_640.jpg",
         "comic": "Marvel"
       },
       {
         "id": 2,
         "name": "Spider-Man",
-        "location": "New York",
+        "location": "NewYork",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPehMiPBqVKT9PQEw2yfUOSZpj1QCJTM3n-w&s",
         "comic": "Marvel"
       },
       {
         "id": 3,
         "name": "Captain America",
-        "location": "New York",
+        "location": "NewYork",
         "img": "https://cdn.pixabay.com/photo/2021/11/12/14/33/captain-america-6789190_960_720.jpg",
         "comic": "Marvel"
       },
@@ -31,7 +31,7 @@
       {
         "id": 5,
         "name": "Hulk",
-        "location": "New York",
+        "location": "NewYork",
         "img": "https://m.media-amazon.com/images/M/MV5BMGQwYTU0NjYtNmRlZS00NjVjLThmNjgtZTc3MjlmNmY0NDkzXkEyXkFqcGc@._V1_.jpg",
         "comic": "Marvel"
       },
@@ -59,7 +59,7 @@
       {
         "id": 9,
         "name": "Ant-Man",
-        "location": "San Francisco",
+        "location": "SanFrancisco",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTLGTI8JG4cfp4Z01isnlUwaOWcVNCF1vuQ&s",
         "comic": "Marvel"
       },
@@ -73,7 +73,7 @@
       {
         "id": 11,
         "name": "Batman",
-        "location": "Gotham City",
+        "location": "Gotham",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgw4g9x_O4NAmRt84zYOzyu8S95kCb23bKQ&s",
         "comic": "DC"
       },
@@ -94,14 +94,14 @@
       {
         "id": 14,
         "name": "Flash",
-        "location": "Central City",
+        "location": "CentralCity",
         "img": "https://i.pinimg.com/originals/8a/b5/8d/8ab58d8f8fe11cac4970133a5ed56700.jpg",
         "comic": "DC"
       },
       {
         "id": 15,
         "name": "Green Lantern",
-        "location": "Coast City",
+        "location": "CoastCity",
         "img": "https://illgetdrivethru.com/wp-content/uploads/2021/01/green-lantern-hal-jordan.jpg",
         "comic": "DC"
       },
@@ -115,7 +115,7 @@
       {
         "id": 17,
         "name": "Green Arrow",
-        "location": "Star City",
+        "location": "StarCity",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbYTp2iyy7DH_ZlRhUOWEqSFhZgO6bKz0pWw&s",
         "comic": "DC"
       },
@@ -129,14 +129,14 @@
       {
         "id": 19,
         "name": "Cyborg",
-        "location": "Jump City",
+        "location": "JumpCity",
         "img": "https://i.pinimg.com/736x/ae/85/a6/ae85a6a735495f84afb42d6dbd0f66cf.jpg",
         "comic": "DC"
       },
       {
         "id": 20,
         "name": "Shazam",
-        "location": "Fawcett City",
+        "location": "FawcettCity",
         "img": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/shazam-flying.jpg",
         "comic": "DC"
       }

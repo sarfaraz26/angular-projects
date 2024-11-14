@@ -9,11 +9,17 @@ import HeroModel from './heroModel';
 })
 export class HeroesService {
   
-  url : string = "http://localhost:3000/heroes?_page=1&_per_page=10";
+  url : string = "http://localhost:3000/heroes";
+  filter : string = "";
 
   constructor(private http : HttpClient) { }
 
   getHeroes() : Observable<any>
+  {
+    return this.http.get<any>(this.url + this.filter);
+  }
+
+  getComicsAndCities() : Observable<any>
   {
     return this.http.get<any>(this.url);
   }

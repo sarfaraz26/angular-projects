@@ -5,12 +5,18 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
-export class AppComponent implements OnInit {
+export class AppComponent{
 
-  parentsWord : string = "Take care of your Family"; 
+  parentsWord : string = ""; 
+  receivedFromChild : string = "";
 
-  ngOnInit()
+  btnSendMsg()
   {
-    this.parentsWord += ",Sons and GrandSons.";
+    this.parentsWord = " Yo son, Take care of your family.";    
+  }
+
+  updateChildMsgInParent(msg : string)
+  {
+    this.receivedFromChild = msg;
   }
 }

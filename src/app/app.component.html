@@ -1,10 +1,21 @@
-<!-- Parent to Child -->
-<div class="container bg-danger">
-    <h1>Parent Component</h1>
-    <app-first [parentMsg]="this.parentsWord"></app-first>
-</div>
+<div class="container">
 
-<!-- Child to Parent -->
-<div class="container bg-success">
-    <h1>Parent</h1>
+    <br>
+    <h1>Parent to Child</h1>
+    <div class="container bg-danger my-3 py-3">
+        <h3>
+            Parent Component
+            <button class="btn btn-primary mb-2" (click)="btnSendMsg()">Send message to Child</button>
+        </h3>
+        <app-first [parentMsg]="this.parentsWord"></app-first>
+    </div>
+
+    <br>
+    <h1>Child to Parent</h1>
+    <div class="container bg-primary my-3 py-2">
+        <h3>Parent Component</h3>
+        <p>{{receivedFromChild}}</p>
+        <app-second (childMsgEmitter)="updateChildMsgInParent($event)"></app-second>
+    </div>
+
 </div>

@@ -12,3 +12,9 @@ Every project will have its associated branch
   - Branch name : projects/contact-list
   - Description : It contains Sorting, Filtering, Pagination logic
 ```
+
+### Project 2 : Input/Output Decorator
+```
+  - Branch name : projects/input-output
+  - Description : It contains how to pass data from Parent to Child & Vice versa.
+```

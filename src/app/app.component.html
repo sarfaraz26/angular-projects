@@ -8,14 +8,14 @@
             <div class="div mb-5">
                 <h5>Comics</h5>
                 <div class="form-group" *ngFor="let comic of comics">
-                    <input type="checkbox" [name]="'chk'+comic" [id]="'chk'+comic">
+                    <input type="checkbox" [name]="comic" [id]="comic" (change)="chkComicChange($event)">
                     {{comic}}
                 </div>
             </div>
             <div class="div mb-5">
                 <h5>Location</h5>
                 <div class="form-group" *ngFor="let city of cities">
-                    <input type="checkbox" [name]="'chk'+city" [id]="'chk'+city">
+                    <input type="checkbox" [name]="city" [id]="city" (change)="chkLocationChange($event)">
                     {{city}}
                 </div>
             </div>

@@ -55,6 +55,15 @@ export class AppComponent implements OnInit{
   this.getHeroes();    
  }
 
+ chkComicChange(event : any)
+ {
+  this.checkBoxChangeEvent(event.target.name, 'comic');
+ }
+
+ chkLocationChange(event : any)
+ {
+  this.checkBoxChangeEvent(event.target.name, 'location');
+ }
 
 
  numItemsPerPageChange(event : any)
@@ -90,4 +99,12 @@ export class AppComponent implements OnInit{
     }
    )
  }
+
+ checkBoxChangeEvent(item : string, param : string)
+ {
+  this.heroService.filter += `&${param}=${item}`
+  this.getHeroes();
+ }
+
+
 }

@@ -1,0 +1,504 @@
+{
+    "heroes": [
+      {
+        "id": 1,
+        "name": "Blaze Fury",
+        "message": "Justice burns like fire, and I am its flame!"
+      },
+      {
+        "id": 2,
+        "name": "Nightshade",
+        "message": "The darkness is my ally, and in it, I find the strength to strike."
+      },
+      {
+        "id": 3,
+        "name": "Stormcaller",
+        "message": "The sky answers to my will, and its fury is unmatched."
+      },
+      {
+        "id": 4,
+        "name": "Ironclad",
+        "message": "I am indestructible, and no force can break me!"
+      },
+      {
+        "id": 5,
+        "name": "Viper",
+        "message": "Strike first, strike fast, strike hard."
+      },
+      {
+        "id": 6,
+        "name": "Phantom Shade",
+        "message": "I walk through walls, and the world never sees me coming."
+      },
+      {
+        "id": 7,
+        "name": "Echo",
+        "message": "My voice reverberates across the world, and you will hear it."
+      },
+      {
+        "id": 8,
+        "name": "Crimson Hawk",
+        "message": "I soar above all, and none can match my speed."
+      },
+      {
+        "id": 9,
+        "name": "Guardian",
+        "message": "I stand between the innocent and the darkness, unwavering."
+      },
+      {
+        "id": 10,
+        "name": "Tempest",
+        "message": "The winds of fate bend to my command!"
+      },
+      {
+        "id": 11,
+        "name": "Starfire",
+        "message": "I wield the power of the stars to protect the Earth."
+      },
+      {
+        "id": 12,
+        "name": "Specter",
+        "message": "I am a ghost of vengeance, and no one can escape my reach."
+      },
+      {
+        "id": 13,
+        "name": "Talon",
+        "message": "With every strike, I leave a scar on my enemies."
+      },
+      {
+        "id": 14,
+        "name": "Dynamo",
+        "message": "I generate power with every move I make!"
+      },
+      {
+        "id": 15,
+        "name": "Silver Bullet",
+        "message": "Nothing can stop me when I'm locked onto my target!"
+      },
+      {
+        "id": 16,
+        "name": "Shadowstrike",
+        "message": "I am the blade in the dark, and my strike is lethal."
+      },
+      {
+        "id": 17,
+        "name": "Titaness",
+        "message": "Strength is my birthright, and I wield it with pre."
+      },
+      {
+        "id": 18,
+        "name": "Vanguard",
+        "message": "I lead the charge, and victory follows me."
+      },
+      {
+        "id": 19,
+        "name": "Moonlight",
+        "message": "Under the moon’s glow, I bring justice to the shadows."
+      },
+      {
+        "id": 20,
+        "name": "Firefly",
+        "message": "I may be small, but my light can burn brighter than the sun."
+      },
+      {
+        "id": 21,
+        "name": "Blizzard",
+        "message": "I freeze time itself, and all who stand before me will shiver."
+      },
+      {
+        "id": 22,
+        "name": "Sundown",
+        "message": "When the sun sets, the real battle begins, and I am the last one standing."
+      },
+      {
+        "id": 23,
+        "name": "Crimson Viper",
+        "message": "I strike with precision, and my venom leaves only destruction."
+      },
+      {
+        "id": 24,
+        "name": "Emberstrike",
+        "message": "My fury burns hotter than the sun, and none can escape the blaze."
+      },
+      {
+        "id": 25,
+        "name": "Onyx Knight",
+        "message": "I am forged in the fires of battle, and I cannot be undone."
+      },
+      {
+        "id": 26,
+        "name": "Whirlwind",
+        "message": "I move like the wind—unstoppable and relentless."
+      },
+      {
+        "id": 27,
+        "name": "Abyss",
+        "message": "From the depths of darkness, I emerge to consume all light."
+      },
+      {
+        "id": 28,
+        "name": "Dreadnought",
+        "message": "I am the storm that breaks the waves, unyielding and unbroken."
+      },
+      {
+        "id": 29,
+        "name": "Silverwing",
+        "message": "My wings shine like the moon, and my strikes are swift and precise."
+      },
+      {
+        "id": 30,
+        "name": "Tal Wave",
+        "message": "I am the ocean’s wrath, and I drown all who oppose me."
+      },
+      {
+        "id": 31,
+        "name": "Ironfist",
+        "message": "One punch from me can shatter mountains, and your resistance is futile."
+      },
+      {
+        "id": 32,
+        "name": "Lunar Eclipse",
+        "message": "When the moon darkens, I strike with the power of the stars."
+      },
+      {
+        "id": 33,
+        "name": "Volt",
+        "message": "My power surges like a lightning bolt, and none can outrun it."
+      },
+      {
+        "id": 34,
+        "name": "Gale",
+        "message": "The wind follows my will, and with it, I am unstoppable."
+      },
+      {
+        "id": 35,
+        "name": "Grim Reaper",
+        "message": "The end is inevitable, and I am its herald."
+      },
+      {
+        "id": 36,
+        "name": "Frostbite",
+        "message": "I freeze my enemies in their tracks, and no one escapes my grip."
+      },
+      {
+        "id": 37,
+        "name": "Shadowfang",
+        "message": "I strike from the darkness with the precision of a deadly fang."
+      },
+      {
+        "id": 38,
+        "name": "Valkyrie",
+        "message": "I carry the souls of warriors to the afterlife, and I never lose a battle."
+      },
+      {
+        "id": 39,
+        "name": "Thunderstrike",
+        "message": "I summon the fury of the storm, and nothing survives my wrath."
+      },
+      {
+        "id": 40,
+        "name": "Inferno",
+        "message": "I am the fire that devours all, and nothing can withstand my heat."
+      },
+      {
+        "id": 41,
+        "name": "Mirage",
+        "message": "I bend reality itself, and you can never be sure what is real."
+      },
+      {
+        "id": 42,
+        "name": "Saber",
+        "message": "My blade is sharp, and my strikes are swift—cutting through all opposition."
+      },
+      {
+        "id": 43,
+        "name": "Overdrive",
+        "message": "When I’m pushed to the limit, my power explodes beyond all expectation."
+      },
+      {
+        "id": 44,
+        "name": "Phoenix",
+        "message": "I rise from the ashes, and nothing can keep me down."
+      },
+      {
+        "id": 45,
+        "name": "Wraith",
+        "message": "I am the living nightmare that haunts your every step."
+      },
+      {
+        "id": 46,
+        "name": "Fury",
+        "message": "Anger fuels my strength, and my wrath knows no bounds."
+      },
+      {
+        "id": 47,
+        "name": "Warlock",
+        "message": "I command the forces of magic, and none can defy my will."
+      },
+      {
+        "id": 48,
+        "name": "Seraph",
+        "message": "I am the divine wrath, and the heavens themselves bend to my will."
+      },
+      {
+        "id": 49,
+        "name": "Bulwark",
+        "message": "I stand as an unshakable wall between my allies and their enemies."
+      },
+      {
+        "id": 50,
+        "name": "Raven",
+        "message": "I fly above the chaos, watching as my enemies fall one by one."
+      },
+      {
+        "id": 51,
+        "name": "Spectral Knight",
+        "message": "I am the eternal guardian, standing vigilant against the forces of darkness."
+      },
+      {
+        "id": 52,
+        "name": "Iron Maen",
+        "message": "My will is steel, and my enemies will feel its bite."
+      },
+      {
+        "id": 53,
+        "name": "Cinder",
+        "message": "I leave nothing but ashes in my wake, as my fire consumes all."
+      },
+      {
+        "id": 54,
+        "name": "Obsian",
+        "message": "Like a diamond, I am unbreakable, and my power is sharp and deadly."
+      },
+      {
+        "id": 55,
+        "name": "Blaze",
+        "message": "My flames rise higher than the heavens, burning brighter than the stars."
+      },
+      {
+        "id": 56,
+        "name": "Abyss",
+        "message": "I dwell in the void, where light dare not venture."
+      },
+      {
+        "id": 57,
+        "name": "Vortex",
+        "message": "My winds tear apart everything, leaving only chaos in their wake."
+      },
+      {
+        "id": 58,
+        "name": "Tempest",
+        "message": "I am the storm that can never be tamed, wild and untamed."
+      },
+      {
+        "id": 59,
+        "name": "Titan",
+        "message": "I am the force that shatters mountains, the weight of the earth itself."
+      },
+      {
+        "id": 60,
+        "name": "Ember",
+        "message": "From a single spark, I ignite the inferno that consumes everything."
+      },
+      {
+        "id": 61,
+        "name": "Phantom",
+        "message": "I am the shadow that haunts your every step, the fear you cannot escape."
+      },
+      {
+        "id": 62,
+        "name": "Frost",
+        "message": "In the cold silence, I freeze all that I touch, an eternal winter."
+      },
+      {
+        "id": 63,
+        "name": "Valkyrie",
+        "message": "I descend from the heavens, bringing judgment with every strike."
+      },
+      {
+        "id": 64,
+        "name": "Revenant",
+        "message": "I rise from the grave, a specter of vengeance that will never rest."
+      },
+      {
+        "id": 65,
+        "name": "Seraph",
+        "message": "I soar on wings of light, my judgment swift and righteous."
+      },
+      {
+        "id": 66,
+        "name": "Specter",
+        "message": "I am the unseen terror, the whisper in the dark that makes you tremble."
+      },
+      {
+        "id": 67,
+        "name": "Quake",
+        "message": "My footsteps shake the earth, for I am the tremor before the fall."
+      },
+      {
+        "id": 68,
+        "name": "Nova",
+        "message": "I am the exploding star, my brilliance dazzling and devastating."
+      },
+      {
+        "id": 69,
+        "name": "Inferno",
+        "message": "I burn with a fury that no water can quench, a flame that consumes all."
+      },
+      {
+        "id": 70,
+        "name": "Wraith",
+        "message": "I slip through the shadows, a deadly specter in your blind spot."
+      },
+      {
+        "id": 71,
+        "name": "Dread",
+        "message": "I am the embodiment of fear, the one who makes your heart race with terror."
+      },
+      {
+        "id": 72,
+        "name": "Aether",
+        "message": "I am the boundless energy that flows through the cosmos, untouchable and eternal."
+      },
+      {
+        "id": 73,
+        "name": "Echo",
+        "message": "My voice reverberates through time and space, never fading, always heard."
+      },
+      {
+        "id": 74,
+        "name": "Raven",
+        "message": "I fly in the dark, my wings a harbinger of death's arrival."
+      },
+      {
+        "id": 75,
+        "name": "Cinder",
+        "message": "I leave nothing but ashes in my wake, as my fire consumes all."
+      },
+      {
+        "id": 76,
+        "name": "Scorn",
+        "message": "I am the vengeance of those wronged, the fury that never forgets."
+      },
+      {
+        "id": 77,
+        "name": "Blight",
+        "message": "I spread corruption with every step, turning all that is pure into ruin."
+      },
+      {
+        "id": 78,
+        "name": "Onyx",
+        "message": "I am unyielding and black as night, a stone that cannot be broken."
+      },
+      {
+        "id": 79,
+        "name": "Crimson",
+        "message": "The red of my blood marks my path, a symbol of my relentless will."
+      },
+      {
+        "id": 80,
+        "name": "Tempus",
+        "message": "I control the flow of time, slowing the moments or speeding them to eternity."
+      },
+      {
+        "id": 81,
+        "name": "Vesper",
+        "message": "I am the twilight, the quiet moment between day and night."
+      },
+      {
+        "id": 82,
+        "name": "Zephyr",
+        "message": "I am the gentle breeze, the calm before the storm."
+      },
+      {
+        "id": 83,
+        "name": "Savage",
+        "message": "I am the beast within, feral and untamed, driven only by hunger."
+      },
+      {
+        "id": 84,
+        "name": "Sable",
+        "message": "I am the dark, the unseen, a shadow in the depths of the night."
+      },
+      {
+        "id": 85,
+        "name": "Valor",
+        "message": "I fight with honor, never backing down in the face of overwhelming odds."
+      },
+      {
+        "id": 86,
+        "name": "Solace",
+        "message": "In the darkest moments, I am the calm and the comfort you need."
+      },
+      {
+        "id": 87,
+        "name": "Thorn",
+        "message": "I am the sharp pain that leaves a lasting mark, a wound that never heals."
+      },
+      {
+        "id": 88,
+        "name": "Blizzard",
+        "message": "I bring the snow and ice, freezing all that I touch with my relentless chill."
+      },
+      {
+        "id": 89,
+        "name": "Rage",
+        "message": "I burn with an unquenchable fury, and nothing can stand against me."
+      },
+      {
+        "id": 90,
+        "name": "Ashen",
+        "message": "From the remains of the past, I rise as the embodiment of rebirth."
+      },
+      {
+        "id": 91,
+        "name": "Rebirth",
+        "message": "I bring forth new life from destruction, a phoenix rising from the ashes."
+      },
+      {
+        "id": 92,
+        "name": "Shatter",
+        "message": "I break all things apart, and from the pieces, I build my empire."
+      },
+      {
+        "id": 93,
+        "name": "Ruin",
+        "message": "I bring destruction to everything I touch, leaving nothing but rubble behind."
+      },
+      {
+        "id": 94,
+        "name": "Emissary",
+        "message": "I am the messenger, bearing news of the end, the harbinger of fate."
+      },
+      {
+        "id": 95,
+        "name": "Lumen",
+        "message": "In the darkness, I am the guiding light, illuminating the way for all to follow."
+      },
+      {
+        "id": 96,
+        "name": "Grim",
+        "message": "I am the end of all things, the inevitability of death that cannot be avoided."
+      },
+      {
+        "id": 97,
+        "name": "Mistral",
+        "message": "I am the wind that guides the sails, the breath that moves through the world."
+      },
+      {
+        "id": 98,
+        "name": "Vigil",
+        "message": "I watch over all, an ever-present guardian keeping the darkness at bay."
+      },
+      {
+        "id": 99,
+        "name": "Apex",
+        "message": "I stand at the pinnacle, the highest point of strength and power."
+      },
+      {
+        "id": 100,
+        "name": "Tempus",
+        "message": "I hold dominion over time, bending it to my will, shaping history as I see fit."
+      }
+    ]
+  }

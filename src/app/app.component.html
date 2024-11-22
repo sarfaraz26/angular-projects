@@ -1,0 +1,9 @@
+<div class="container my-3"  (scroll)="containerScroll($event)">
+    <h1 class="text-center">Data Lazy Loading</h1>
+    <div class="row mt-3">
+        <div class="col-4 pt-2 border" *ngFor="let hero of heroes">
+            <h5>{{hero.name}}</h5>
+            <p>{{hero.message}}</p>
+        </div>
+    </div>
+</div>

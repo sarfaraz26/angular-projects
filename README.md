@@ -13,8 +13,14 @@ Every project will have its associated branch
   - Description : It contains Sorting, Filtering, Pagination logic
 ```
 
-### Project 2 : Input/Output Decorator
+### Project 3 : Input/Output Decorator
 ```
   - Branch name : projects/input-output
   - Description : It contains how to pass data from Parent to Child & Vice versa.
+```
+
+### Project 4 : Data Lazy Loading
+```
+  - Branch name : projects/data-lazy-loading
+  - Description : It contains data lazy loading implementation through scroll
 ```
